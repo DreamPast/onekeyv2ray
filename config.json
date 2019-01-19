@@ -19,6 +19,7 @@
 			"clients":[{
 					"id":"your_uuid",
 					"alterId":32
+					"security": "auto"
 			}]
 		},
 		"streamSettings":{
