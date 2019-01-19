@@ -22,7 +22,7 @@
 			}]
 		},
 		"streamSettings":{
-			"network":"ws"
+			"network":"kcp"
 		}
 	}],
 	"outbounds":[{
