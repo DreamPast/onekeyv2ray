@@ -13,7 +13,7 @@
 	},
 	{*/
 		"tag":"vmessin",
-		"port":8080,
+		"port":your_port,
 		"protocol":"vmess",
 		"settings":{
 			"clients":[{
