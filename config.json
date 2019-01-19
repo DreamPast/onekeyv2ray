@@ -22,8 +22,7 @@
 			}]
 		},
 		"streamSettings":{
-			"network": "ws",
-			"security": "tls",
+			"network": "ws"
 		}
 	}],
 	"outbounds":[{
