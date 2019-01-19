@@ -21,4 +21,5 @@ rm -fR /v2ray/v2ray-v$VER-linux-64
 
 chmod +x v2ray v2ctl
 sed -i "s/your_uuid/$UUID/g" config.json
+sed -i "s/your_port/$PORT/g" config.json
 ./v2ray
